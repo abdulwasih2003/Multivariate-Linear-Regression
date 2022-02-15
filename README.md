@@ -17,7 +17,7 @@ Read the file cars.csv.
 Assign the values for x and y as required and create the linear regression model.
 
 ### Step5
-Predict the output.
+Display the result.
 ## Program:
 ```
 # To write a python program to implement multivariate linear regression and predict the output.
