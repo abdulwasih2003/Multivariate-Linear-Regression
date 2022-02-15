@@ -20,6 +20,9 @@ Assign the values for x and y as required and create the linear regression model
 Predict the output.
 ## Program:
 ```
+# To write a python program to implement multivariate linear regression and predict the output.
+# Developed by : Syed Abdul Wasih H
+Register Number : 212221240057
 import pandas as pd
 from sklearn import linear_model
 df=pd.read_csv("cars.csv")
